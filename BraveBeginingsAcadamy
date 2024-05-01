@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Brave Beginings Acadamy</title>
+	<style>
+		@import url('https://fonts.googleapis.com/css2?family=Handlee&display=swap');
+		body {
+			font-family: 'Handlee', cursive;
+			background-color: #D3DBAC;
+			color: #333;
+			margin: 0;
+			padding: 20px;
+			text-align: center;
+		}
+		header {
+			background-color: #EF7F83;
+			color: #fff;
+			padding: 20px;
+		}
+		main {
+			max-width: 800px;
+			margin: 0 auto;
+			padding: 20px;
+			text-align: left; /* Align text to the left */
+		}
+		h2 {
+			text-align: center;
+			font-size: 28px; /* Increase heading font size */
+		}
+		p {
+			font-size: 18px; /* Increase body text font size */
+			line-height: 1.5; /* Increase line-height for better readability */
+		}
+		footer {
+			background-color: #EF7F83;
+			color: #fff;
+			padding: 5px 10px;
+			font-size: 12px;
+			margin-top: 40px;
+			line-height: 1.2;
+		}
+	</style>
+</head>
+<body>
+	<header>
+		<h1>Brave Beginings Acadamy</h1>
+	</header>
+	<main>
+		<h2>About Us</h2>
+		<p>The early years of a child's life are a time of wonder, discovery, and boundless potential. It's a delicate phase where little hearts and minds are shaped, laying the foundation for their future growth and development. At Brave Beginings Acadamy, we understand the profound impact of these formative years and are dedicated to nurturing the unique talents and curiosities of each child.</p>
+		<p>Through the Reggio Emilia approach, we create a warm and engaging environment that fosters exploration, self-expression, and a love for learning. Our experienced educators act as guides, facilitating opportunities for children to actively construct their understanding of the world around them. We believe that every child is capable, resilient, and full of innate curiosity, and it is our privilege to support their journey of self-discovery.</p>
+	</main>
+	<footer>
+		<p>For more information, please feel free to contact us:</p>
+		<p>Email: BBacadamy@gmail.com</p>
+		<p>Phone: 021 123 4567 / 084 225 8897</p>
+		<p>Security Gate: 021-123 4589</p>
+		<p>&copy; Brave Beginings Acadamy</p>
+	</footer>
+</body>
+</html>
